@@ -2,7 +2,7 @@
 A project for my class CS 421: Natural Language Processing that grades a bunch of essays using NLP techniques.
 
 Project 1 complete for CS421 – University of Illinois at Chicago  
-Name 1: sparim2@uic.edu   Name 2: kdesai37@uic.edu   
+Name 1: Sourabh Parime   Name 2: Kashyap Desai   
 ---------------------------------------------------------Setup------------------------------------------------------------   
 Alternatively, you can give the following command (in either Windows or Linux):    
 Please install required libraries using the following commands:      
