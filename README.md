@@ -1,4 +1,4 @@
-# automated_essay_grader
+# Automated Essay Grader
 A project for my class CS 421: Natural Language Processing that grades a bunch of essays using NLP techniques.
 
 Project 1 complete for CS421 – University of Illinois at Chicago  
