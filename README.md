@@ -15,12 +15,13 @@ Pip install genism
 Pip install progressbar
 Pip install textblob
 After installing nltk please make sure the stopwords and names corpus is accessible
-Can be downloaded by nltk.download(‘stopwords’) and nltk.download(‘names’) respectively.
------------------------------------------------Running the grader----------------------------------------To run the grader:
+Can be downloaded by nltk.download(‘stopwords’) and nltk.download(‘names’) respectively.  
+-----------------------------------------------Running the grader----------------------------------------  
+To run the grader:  
 • Navigate to the executables folder.
 • Type python Main_comp.py “your path to Stanford core nlp folder”.
 • If there is an error like xe\02 non ascii character found. It is due to the compiler not recognizing the file as utf-8 encoded. To fix this we included
-# -*- coding: utf-8 -*- in the first line of every file.
+ -*- coding: utf-8 -*- in the first line of every file.
 • The code outputs some warnings on the screen, they do no affect the code run and are printed by pandas.
 • Development is done on windows environment and sometimes there might be errors like variable used before assigning. This is not a error in the code, this is due to tab space issue when the files are read by other OS.
 • Please run on windows if any error occurs.
